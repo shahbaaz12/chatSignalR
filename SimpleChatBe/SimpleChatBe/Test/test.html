@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>SignalR Test</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+</head>
+<body>
+
+    <h2>SignalR Test</h2>
+
+    <div id="log" style="white-space: pre-wrap; font-family: monospace;"></div>
+
+    <script>
+    const logDiv = document.getElementById("log");
+    function log(msg) {
+        logDiv.innerText += msg + "\n";
+    }
+
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("https://localhost:32771/hubs/chat")
+        .configureLogging(signalR.LogLevel.Information)
+        .build();
+
+    connection.on("UserConnected", id => log("UserConnected: " + id));
+    connection.on("UserDisconnected", id => log("UserDisconnected: " + id));
+    connection.on("UserTyping", data => log("UserTyping: " + JSON.stringify(data)));
+    connection.on("NewMessage", msg => log("NewMessage: " + JSON.stringify(msg)));
+
+    async function start() {
+        await connection.start();
+        log("Connected!");
+
+        await connection.invoke("JoinRoom", "room1");
+        log("Joined room1");
+    }
+
+    start();
+    </script>
+
+</body>
+</html>

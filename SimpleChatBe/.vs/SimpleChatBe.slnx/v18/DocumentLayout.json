@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\repositories\\inmemorychatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\repositories\\inmemorychatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\models\\createmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\models\\createmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\test\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\test\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|c:\\a\\pproj\\net\\docker\\simplechatbe\\simplechatbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B3D032-FEEB-6750-4C26-2EE955F3D596}|SimpleChatBe\\SimpleChatBe.csproj|solutionrelative:simplechatbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryChatRepository.cs",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Repositories\\InMemoryChatRepository.cs",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Repositories\\InMemoryChatRepository.cs",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Repositories\\InMemoryChatRepository.cs",
+              "RelativeToolTip": "SimpleChatBe\\Repositories\\InMemoryChatRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:16:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Repositories\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Repositories\\IChatRepository.cs",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Repositories\\IChatRepository.cs",
+              "RelativeToolTip": "SimpleChatBe\\Repositories\\IChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:15:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Models\\MessageDto.cs",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Models\\MessageDto.cs",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Models\\MessageDto.cs",
+              "RelativeToolTip": "SimpleChatBe\\Models\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:14:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SimpleChatBe\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:51:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "SimpleChatBe\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:17:35.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMessageRequest.cs",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Models\\CreateMessageRequest.cs",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Models\\CreateMessageRequest.cs",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Models\\CreateMessageRequest.cs",
+              "RelativeToolTip": "SimpleChatBe\\Models\\CreateMessageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:15:07.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.html",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Test\\test.html",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Test\\test.html",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Test\\test.html",
+              "RelativeToolTip": "SimpleChatBe\\Test\\test.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-15T22:12:14.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleChatBe\\Program.cs",
+              "ToolTip": "C:\\a\\pproj\\net\\Docker\\SimpleChatBe\\SimpleChatBe\\Program.cs",
+              "RelativeToolTip": "SimpleChatBe\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:09:20.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
